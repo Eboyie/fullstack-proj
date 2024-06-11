@@ -1,0 +1,12 @@
+export { default as LandingPage } from './LandingPage';
+export { default as ProductPage } from './ProductPage';
+export { default as CartPage } from './CartPage';
+export { default as SigninPage } from './SigninPage';
+export { default as SignupPage } from './SignupPage';
+export { default as ShipmentPage } from './ShipmentPage';
+export { default as PaymentMethodPage } from './PaymentMethodPage';
+export { default as PlaceOrderPage } from './PlaceOrderPage';
+export { default as OrderPage } from './OrderPage';
+export { default as OrderHistoryPage } from './OrderHistoryPage';
+export { default as SearchPage } from './SearchPage';
+export { default as ProfilePage } from './ProfilePage';
